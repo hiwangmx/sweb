@@ -1,0 +1,13 @@
+.calendar-table {
+	width: 100%;
+	border-right: 1px solid #FFDAC8;
+	border-bottom: 1px solid #FFDAC8
+}
+
+.calendar-table td {
+	color: #C07AB8;
+	font-size: x-large;
+	text-align: center;
+	border-left: 1px solid #FFDAC8;
+	border-top: 1px solid #FFDAC8
+}
