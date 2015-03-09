@@ -28,6 +28,8 @@
 				<span class="icon-bar">1</span>
 			</button>
 			<a class="navbar-brand" href="#">关于我</a>
+			
+			<a class="navbar-brand" href="calendar_show.action">日历</a>
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<form class="navbar-form navbar-right" role="form">
